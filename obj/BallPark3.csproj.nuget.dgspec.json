@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/matikos 1/source/BallPark3/BallPark3.csproj": {}
+  },
+  "projects": {
+    "/Users/matikos 1/source/BallPark3/BallPark3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/matikos 1/source/BallPark3/BallPark3.csproj",
+        "projectName": "BallPark3",
+        "projectPath": "/Users/matikos 1/source/BallPark3/BallPark3.csproj",
+        "packagesPath": "/Users/matikos 1/.nuget/packages/",
+        "outputPath": "/Users/matikos 1/source/BallPark3/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/matikos 1/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

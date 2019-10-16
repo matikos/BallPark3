@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2536F600-A7C4-4AD4-811A-206FD27421E6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApplicationData.cs">
+    <Files>
+      <File FileName="ApplicationData.cs" Line="72" Column="1" />
+      <File FileName="ApplicationData.cs" Line="72" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BallPark3" expanded="True">
+            <Node name="BallPark3" expanded="True">
+              <Node name="ApplicationData.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BallPark3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

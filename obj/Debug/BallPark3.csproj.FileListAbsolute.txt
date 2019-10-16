@@ -1,0 +1,9 @@
+/Users/matikos 1/source/BallPark3/bin/Debug/BallPark3.exe.config
+/Users/matikos 1/source/BallPark3/bin/Debug/BallPark3.exe
+/Users/matikos 1/source/BallPark3/bin/Debug/BallPark3.pdb
+/Users/matikos 1/source/BallPark3/bin/Debug/System.ValueTuple.dll
+/Users/matikos 1/source/BallPark3/obj/Debug/BallPark3.csprojAssemblyReference.cache
+/Users/matikos 1/source/BallPark3/obj/Debug/BallPark3.csproj.CoreCompileInputs.cache
+/Users/matikos 1/source/BallPark3/obj/Debug/BallPark3.csproj.CopyComplete
+/Users/matikos 1/source/BallPark3/obj/Debug/BallPark3.exe
+/Users/matikos 1/source/BallPark3/obj/Debug/BallPark3.pdb
